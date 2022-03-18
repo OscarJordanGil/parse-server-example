@@ -25,8 +25,8 @@
   },
   "engines": {
     "node": "<17",
-     "npm": "8.0.0"
-  }
+    "npm": "8.0.0"
+  },
   "devDependencies": {
     "babel-eslint": "10.1.0",
     "babel-watch": "7.4.0",
